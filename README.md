@@ -1,10 +1,10 @@
-Degree Project in Computer Science and Engineering
+# Degree Project in Computer Science and Engineering
 
-Effects of Continuous Neural Heterogeneity on Spiking Activity in a Spatially Embedded Network
+**Effects of Continuous Neural Heterogeneity on Spiking Activity in a Spatially Embedded Network**
+
+## Collaborators
 
 SAMUEL RITTER & GUANLONG ZHOU
-
-Degree Project in Computer Science, DA150X
 
 Date: July 2, 2026
 
